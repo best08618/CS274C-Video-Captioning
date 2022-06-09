@@ -1,5 +1,10 @@
 # CS274C-Video-Captioning
 
+We implement Baseline model and attention model with Keras. 
+Below is the steps for preprocessing data and training/ testing.
+
+Data should be right directory (under training_data)
+
 ## 01. Feature Extractor
 We need to preprocess each video and extract features from the video using pre-trained model.
 
