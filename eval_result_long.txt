@@ -1,0 +1,672 @@
+METEOR score: 0.38907840834930896
+BLEU[1-4] scores: [0.4753485209112547, 0.28808760034045827, 0.17915412587128401, 0.10566303042805077]
+kquB3rIgfGk_640_645 0.9995 a man is drinking a clear liquid from a glass
+ht2oIYBSoI0_9_21 0.9977 a man is riding a horse
+wjH72cZ0GLM_1_10 0.9977 a man is driving a car
+xpOYXbMDDBY_1_20 0.9977 a man is playing a guitar
+hoinj6vyQ2g_8_16 0.9960 a man is playing guitar
+klFyrnrUSck_25_36 0.9960 a woman is cutting meat
+yREFkmrrYiw_51_57 0.9960 a woman peels a potato
+q-a6NEotUX8_5_10 0.9922 men are playing soccer
+q9ew_nITQWY_54_62 0.9922 men are playing cricket
+lv8d_qLLqsk_1_20 0.9498 a boy is singing and playing a guitar
+v4_AzQSnmY4_40_55 0.9490 a man is riding a horse
+jI58q6rcNLc_8_18 0.9396 a man plays the guitar and sings onstage
+q3I3R_gqy8M_38_42 0.9375 a man
+nq4hG6qgyPs_240_251 0.9222 someone is cutting an onion with a large knife
+oDcd2JbOyzg_85_98 0.8577 a person cutting a up a onion
+sT5Bzt9w354_11_34 0.8541 a person is drawing on a piece of paper
+ry7AUQtuwdU_4_39 0.8300 a man is playing a guitar
+xtbsD3PUua4_174_185 0.8300 a woman is cutting a vegetable
+ptHkvYrH9fY_2_10 0.8294 a man is playing a large <UNK> instrument
+qeKX-N1nKiM_74_77 0.8200 someone is slicing a piece of raw fish into strips
+q8t7iSGAKik_11_31 0.8179 a man kicks a soccer ball into the net
+q8t7iSGAKik_57_74 0.8179 a man kicks a soccer ball into the net
+kzyFBlNRohs_82_88 0.8067 a man is playing a guitar
+oRBgVOiZVsc_16_22 0.8067 a man is playing a guitar
+qvg9eM4Hmzk_1_9 0.8067 a man is driving a car
+zFIn8DeV5PM_20_33 0.8067 a boy is playing a keyboard
+klFyrnrUSck_13_19 0.7938 a woman is cutting meat
+lR8RrUBhCQg_5_15 0.7938 a man is playing guitar
+lSnWhsmlGec_5_10 0.7934 a young man is playing the piano
+tn1d5DmdMqY_15_28 0.7934 a young man is playing the piano
+qOiN__I1-Zo_2_8 0.7812 a <UNK> kitten is playing with a cat toy
+tYQ7O6V0Fvk_20_55 0.7806 a girl wearing glasses is playing the flute
+tmAX2PnRCY0_284_292 0.7773 a man is adding water to a pan
+urXDqw3S34I_12_17 0.7705 a truck or van is being driven down a road
+fcvW1vr8hAs_96_102 0.7562 a man is playing with a puppy on the floor
+kk3TIio1-Uw_5_14 0.7562 a man is sitting cross <UNK> playing a wooden flute
+tn-Hoz4KbkE_89_93 0.7562 a female sits in a chair and plays an instrument
+lfGlDg47How_93_98 0.7556 a man is spreading butter on a split half loaf of bread
+kWLNZzuo3do_24_31 0.7545 a woman is cutting some brown sheets of something into small squares
+k-SWy-sU8cE_5_10 0.7500 a guy is playing guitar
+r0rmrbTb7fU_98_109 0.7446 a woman is putting on lipstick with a brush and talking
+mYzajpeAWuA_100_112 0.7361 a man playing drums
+omGWjiwxcTE_18_23 0.7353 a man is driving a car
+fd7Ky1lEPT8_40_50 0.7350 someone is cutting an onion with a large knife
+lfGlDg47How_110_115 0.7333 a man is spreading butter on a split half loaf of bread
+xBePrplM4OA_6_18 0.7212 a girl is riding a horse bareback
+fIaLVw_Gc_w_99_109 0.7182 a woman is cutting broccoli
+jPBxl9gFqNY_110_117 0.7182 a man is kneading dough
+m1NR0uNNs5Y_73_78 0.7182 a person is shredding carrots
+qew09qQgMAg_22_27 0.7182 a man is performing yoga
+s20OlIRK340_147_174 0.7182 a person is adding cream
+w9mqbwOIkVg_6_12 0.7182 a man is blowing bubbles
+lFyPUgJCmtU_100_110 0.7120 a man is swinging on a rope
+ogcqFaNbah4_475_487 0.7075 two men are dancing like robots on stage
+oDcd2JbOyzg_38_55 0.6944 a person is slicing bread with a bread knife
+eyhzdC936uk_15_27 0.6914 a boy is playing with a telephone
+kquB3rIgfGk_525_532 0.6907 a man is slicing a loaf of bread with a knife
+kWLNZzuo3do_25_32 0.6818 a woman is slicing a large cooked carrot into chunks
+kWLNZzuo3do_31_37 0.6818 a woman is slicing a large cooked carrot into chunks
+kWLNZzuo3do_38_47 0.6818 a woman is cutting a yellow <UNK> substance into pieces
+mfJjIOfj6D8_3_10 0.6818 a brown cow is eating grass in an open field
+xxHx6s_DbUo_98_101 0.6818 a man is playing basketball with a large black dog
+itxzpFW1z7E_22_36 0.6817 a cat is eating corn on the cob
+ri5AyXzxb4o_201_215 0.6817 a man is breaking bricks with his foot
+kWLNZzuo3do_48_53 0.6758 a woman is cutting a peeled potato into chunks with a knife
+n2NLoLNecgI_168_178 0.6696 a young man seated on the floor is playing a guitar
+hWhKdXcqYeU_3_12 0.6692 a man is breaking bricks with his foot
+lcu-DwrnYY8_2_5 0.6692 a man is breaking bricks with his foot
+ruoHOXo2PRQ_2_20 0.6657 a boy is playing a guitar and other boy is listing to its
+muI1BFsdbdo_33_45 0.6615 a group of men is smiling
+nc0fVlaTYEs_34_44 0.6615 a man is cooking an egg
+fjDvKHkmxs0_119_126 0.6559 a woman is watching a man fill up the gas tank of a car
+glrijRGnmc0_211_215 0.6543 someone sets the timer and starts a microwave oven
+yyxtyCaEVqk_250_264 0.6543 someone is cutting an onion with a large knife
+kWLNZzuo3do_251_260 0.6466 a woman is placing skewers of meat on some kind of cooking apparatus
+zlS1_zBYluY_15_21 0.6401 a panda is sitting eating some kind of plant matter
+hJFBXHtxKIc_225_230 0.6282 someone pours tomato sauce from a can into a saucepan and stirs with a wooden spoon
+qeKX-N1nKiM_68_72 0.6282 a woman is squeezing the liquid out of cucumber slices with her hands over a glass bowl
+m1NR0uNNs5Y_273_280 0.6265 someone is cutting excess fat off of raw chicken using scissors
+hkkmKk9LcQk_36_43 0.6250 a man is playing a flute
+j7xz1nos-xc_10_20 0.6250 a man is playing a guitar
+jDFn-1lXJ98_71_80 0.6250 a dog fishing in the lake
+rV5VmhY3-Sw_65_76 0.6250 a man sings into a microphone
+v7iIZXtpIb8_5_15 0.6250 a man is playing a guitar
+wgrrQwLdME8_0_10 0.6250 a boy is checking a calendar
+zBrC1GmA0Qg_26_33 0.6250 a cat playing on a trampoline
+fBA_lxUiwSg_2_4 0.6233 a cat playing the piano
+yyxtyCaEVqk_329_360 0.6189 a man is peeling a carrot
+jlahRlo4jlU_30_36 0.6148 a man is swinging on a rope
+kBjUDCyDCuI_20_26 0.6148 a man is walking on a tightrope
+mFCf8lLXrUc_36_57 0.6148 someone is peeling cooked shrimp with their fingers then cutting into it lengthwise with a knife
+qvg9eM4Hmzk_4_10 0.6148 a man is relaxing on the beach
+rXZy-PHtnxg_8_42 0.6148 a man is getting down a staircase
+s6QwbmWbSmw_18_24 0.6148 a man is relaxing on the beach
+uGDuIyfJXXg_23_33 0.6148 a man is relaxing on the beach
+iwpnUHFhjWc_9_14 0.6110 a woman is riding behind a man on a motorcycle
+mv89psg6zh4_33_46 0.6110 a cat is going to the bathroom in a <UNK>
+nV3Wv8iHp4U_0_38 0.6085 a woman is playing the guitar
+qeKX-N1nKiM_52_59 0.6085 someone is slicing bread into slices
+sm0OYD0NSbQ_51_59 0.6085 a man is playing a guitar
+tHLiYTS9Iz8_1_16 0.6085 a man is polishing a floor
+vpR0L3sIvoo_15_49 0.6085 a woman is playing the guitar
+vulNlhUI6m0_7_27 0.6085 a man is playing a flute
+xxHx6s_DbUo_36_40 0.6085 a group of men is smiling
+xxHx6s_DbUo_49_56 0.6085 a man is driving a car
+otvx5OZHTJc_1_22 0.6048 a person is mixing ingredients in a bowl
+shPymuahrsc_5_12 0.6048 a cat is eating corn on the cob
+xxHx6s_DbUo_240_248 0.6048 a man is doing pullups in a doorway
+kWLNZzuo3do_228_232 0.6027 a man is putting cooked chicken wings in a plastic container
+g36ho6UrBz0_5_20 0.6009 a guy is singing
+jMO3jGQeqyk_3_6 0.6009 a man is kicking
+lAznAeFFldg_6_10 0.6009 a man is running
+qeKX-N1nKiM_133_142 0.5964 a man is putting meat in a pan
+gHyXstpe_N8_95_100 0.5952 a man is pouring seasoning in a plastic container
+kWLNZzuo3do_77_83 0.5952 a person is drawing on a piece of paper
+po2tcrG6KzM_2_8 0.5952 a man is cutting a cardboard plate with scissors
+unhiT2D6WvE_0_20 0.5952 a cat get his head stuck in a bag
+jW77z3-SrO4_56_63 0.5948 a person cuts butter into a pile of flour
+kEGmZDpZ_RE_248_293 0.5943 a person cutting a up a onion
+fJr2evLANsE_0_10 0.5905 a large cat is watching and sniffing a spider
+klFyrnrUSck_42_46 0.5889 a woman is cracking eggs
+kWLNZzuo3do_167_181 0.5889 a woman is slicing cabbage
+m1NR0uNNs5Y_104_110 0.5889 a woman is dicing celery
+m1NR0uNNs5Y_88_94 0.5889 a woman is dicing celery
+wSwwS_0MKEc_68_78 0.5889 a man is kneading dough
+zbAk0gX7kas_16_24 0.5889 a baby monkey is eating
+x8Ul09tk6zk_0_8 0.5868 a man is holding up and talking about a gray you tube tshirt
+fvBs0xpEZhQ_10_30 0.5859 a man <UNK> the weather
+hxZ-5wELSJM_0_12 0.5859 a young boy is running
+z_qf7tOnHVg_81_89 0.5859 a man is telling a story to people with masks
+hJFBXHtxKIc_204_209 0.5831 a man is putting cooked chicken wings in a plastic container
+iLr7ZHAq1ro_7_11 0.5808 a man is breaking bricks with his foot
+ok4cM6WTA5E_178_184 0.5808 a man is putting meat in a pan
+uiLr9bdOL0M_23_30 0.5808 a cat is eating corn on the cob
+xxHx6s_DbUo_216_222 0.5808 the man is pouring fuel on the flag
+gtixLEvO2Us_0_6 0.5792 a man in a construction hat is dancing while two other seated men watch
+x_8RiVI6rH8_41_54 0.5773 a man is yelling to animals
+yBK02O1Oewc_20_35 0.5773 a man is loading his gun
+kWLNZzuo3do_154_165 0.5769 a woman is skinning a piece of fish with her fingers
+rw9h_574HxE_70_74 0.5769 a man is running towards a tornado in an open field
+umjc1CkO4JA_290_305 0.5769 a man is running towards a tornado in an open field
+gHzws6FpuNE_10_12 0.5739 a teenage boy riding a dirt bike over a car
+vZa13vJugGU_0_30 0.5724 a man is playing a saxaphone
+jbzaMtPYtl8_48_58 0.5694 a man is pushing a van from behind while being filmed by <UNK>
+vE1gvaM3iAs_39_46 0.5682 a man is spreading butter on a split half loaf of bread
+zHy7pM0U49w_103_109 0.5682 a man is spreading butter on a split half loaf of bread
+zWVQImPY2Cc_27_44 0.5682 a man is spreading butter on a split half loaf of bread
+kquB3rIgfGk_197_202 0.5679 a man is sniffing two pizzas on a counter
+kWLNZzuo3do_76_80 0.5679 someone is cutting red bell peppers into thin slices
+qeKX-N1nKiM_37_43 0.5679 someone is cutting an onion with a large knife
+urNX3e1Wbc8_30_38 0.5679 a panda looking dog is walking down a sidewalk
+xaPepCVepCg_35_46 0.5679 a baby rhino is walking behind an adult rhino
+gHyXstpe_N8_140_150 0.5662 a man is placing sauce on dough
+ok4cM6WTA5E_120_133 0.5636 a man is putting cooked chicken wings in a plastic container
+rlQ2kW-FvMk_66_79 0.5597 a man is holding up and talking about a gray you tube tshirt
+x_7BrCQdVUs_172_177 0.5597 a woman is carrying a huge plastic bag of cans over her back
+ghynaoVNwZc_1_20 0.5590 a motorcyclist is doing donuts with his motorcycle
+swKrHEeOj9c_4_8 0.5575 a panda climbs up a threetiered cake and another panda is sitting and looking at the cake
+kWLNZzuo3do_56_62 0.5569 a woman puts four okra in a pan of boiling water
+inLBPVG8oEU_18_24 0.5556 a man is telling a story to people with masks
+nBJV56WUDng_38_47 0.5556 a man is taking toaster scrambles out of the package
+p3J3TAdKAYQ_0_10 0.5556 a squirrel is eating a peanut in it s shell
+xxHx6s_DbUo_41_44 0.5556 a man is in a moving boat on the ocean
+kWLNZzuo3do_262_270 0.5556 a woman is covering steamed rice in spices
+hM3jzlyNIpc_0_10 0.5515 a hamster is eating nuts or seeds
+labytsb3gfI_146_154 0.5515 a man playing soccer on the beach
+sRKQfxxEP4M_117_125 0.5515 a man and a woman are kissing
+jTaLGh_MKCM_5_20 0.5506 a man kneeling next to a woman lying on the floor keeps patting her back as they talk
+fr9H1WLcF1A_141_148 0.5506 a man is playing a flute in a band
+kI6MWZrl8v8_149_161 0.5506 a man bags <UNK> and talks to a group
+m7x8uIdg2XU_67_73 0.5439 a woman cracks an egg into a small glass bowl
+yPNFVj-pISU_105_115 0.5437 a man is running towards a tornado in an open field
+zv2RIbUsnSw_335_341 0.5437 a woman in a ski cap and sunglasses is riding in the back seat of a car talking on a cell phone
+wON-YuA1GjA_3_63 0.5435 a woman is talking while opening and applying a tube of mascara to her lashes
+jcRCn7MeSbo_71_82 0.5357 a boy is playing with a telephone
+me1D1WZ0yNM_120_124 0.5357 a woman is shooting a hand gun
+uxEhH6MPH28_69_85 0.5357 a woman stirs beef in a bowl
+qeKX-N1nKiM_106_115 0.5354 a woman is stir frying pieces of meat using chopsticks
+kIZanu909lw_67_80 0.5350 the person is dicing onions
+xy9LLUUZ6ic_50_60 0.5324 a man is taking pictures with a camera of a woman <UNK>
+kWLNZzuo3do_152_164 0.5282 someone cuts a piece out of cabbage leaves
+m1NR0uNNs5Y_192_198 0.5282 someone cuts mushrooms into pieces with a knife
+m1NR0uNNs5Y_224_230 0.5258 someone is cutting excess fat off of raw chicken using scissors
+jxdubZzQrio_33_46 0.5215 a man is cutting a piece of paper in half lengthwise using scissors
+rw9h_574HxE_13_18 0.5215 a man is cutting a piece of paper in half lengthwise using scissors
+wkgGxsuNVSg_34_41 0.5215 a young man is running beside a truck being driven down the road
+gIvetX_oXeI_85_90 0.5208 someone sets the timer and starts a microwave oven
+j2sOMdilDWU_87_97 0.5208 someone is slicing a cucumber using a hand slicer
+pRpeEdMmmQ0_1_18 0.5137 a man is running down a street in his underwear
+rw9h_574HxE_161_166 0.5137 a man and a woman are dancing in a field
+kEGmZDpZ_RE_352_370 0.5111 a person cutting up <UNK>
+nau1vCzyFQ4_37_54 0.5111 a woman is cutting broccoli
+xEDCfcMZlZY_37_41 0.5111 a man grabs a woman
+zMg9dChF97A_12_38 0.5111 a knife is being sharpened
+htWPOGTagec_2_18 0.5091 a man is singing and playing the guitar
+ifS2nXfCyYo_4_34 0.5091 a cat is eating corn on the cob
+k5OKBX2e7xA_19_32 0.5091 a man driving a car runs into the side of a parked car in a parking lot
+ufFT2BWh3BQ_0_8 0.5068 a panda is sitting eating some kind of plant matter
+nTasT5h0LEg_12_14 0.5027 a cat standing on it s hind legs is batting it s paws and fighting with a large black dog
+q7pOFn8s4zc_27_36 0.5011 a man riding his motorcycle down the street turns around towards a woman walking the opposite way
+gbbRwBZuhzI_26_40 0.5011 a guy is playing electric guitar
+haJn6k5zVnE_1_23 0.5011 a man cuts throw a rope
+jjl2ZMdFCsw_130_142 0.5011 a boy is kicking a ball
+jmoT2we_rqo_0_5 0.5011 a man is polishing a floor
+kRNHJSc4AXE_220_228 0.5011 a man seated on a park bench is rocking a woman seated on his lap
+m4D72WXFd8s_557_564 0.5011 a woman demonstrating a walking exercise
+pNelR-nHz7g_68_90 0.5011 a man is peeling a carrot
+xxHx6s_DbUo_173_177 0.5011 a man is polishing a floor
+p69Q8lTkZTc_21_29 0.5010 a little girl gets dragged downhill by a dog
+kWLNZzuo3do_38_42 0.4991 the lady is slicing onions
+qLwgb3F0aPU_298_305 0.4991 a group of people dancing
+zSPBC8EO6dY_97_110 0.4991 a man is being interviewed
+z2kUc8wp9l8_40_46 0.4934 a man is pushing a van from behind while being filmed by <UNK>
+n6U-TGahwvs_100_110 0.4934 a man
+hXn7D6-AAMA_0_9 0.4932 a cat is going to the bathroom in a <UNK>
+fgWFxFg7-GU_10_26 0.4915 a man aims and fires a rifle
+giLxPCgLLqg_9_19 0.4915 the lion is playing with the man
+nq4hG6qgyPs_184_195 0.4915 a man is demonstrating peeling a potato
+s20OlIRK340_125_138 0.4915 a person hands typing on a computer
+tzd3AYTZq0U_0_6 0.4915 a baby biting on a stuffed animal
+pzq5fPfsPZg_29_33 0.4827 a woman is speaking in sign language
+vub04F8CWng_32_41 0.4827 a marching band plays in the woods
+hksxtbcS780_7_14 0.4822 a panda climbs up a threetiered cake and another panda is sitting and looking at the cake
+vDhEpqfhVI0_0_8 0.4822 a panda climbs up a threetiered cake and another panda is sitting and looking at the cake
+nZSFn51l3hc_660_666 0.4822 a man is adding water to a pan
+rVFJzN20jhQ_27_32 0.4822 a man is talking on a cell phone
+qBFSt85-xqk_15_20 0.4808 a woman is cracking an egg
+tYh4iDFgmEE_50_54 0.4808 a woman is smoking a cigarette
+nS6oQxX_Qi8_2_12 0.4782 a man is taking pictures with a camera of a woman <UNK>
+suj4VNfZz5E_33_50 0.4749 someone is cutting cooked chicken into bitesized pieces
+vfktGc_qx-w_2_18 0.4749 a man is breaking bricks with his foot
+uy0HNWto0UY_18_25 0.4747 a man is spinning in a chair
+lw7pTwpx0K0_38_48 0.4733 a man held a baby monkey in his hand
+pfQPRXcihkI_160_184 0.4733 someone is chopping up a tomato into small pieces
+yOnRm3TP6hM_0_12 0.4733 a panda looking dog is walking down a sidewalk
+klFyrnrUSck_87_100 0.4688 a woman sits down
+tYh4iDFgmEE_10_14 0.4688 a man chops cucumbers
+u9prcUCHlqM_235_241 0.4688 a man playing drums
+msCidKHOh74_392_399 0.4646 a man cuts the top and bottom off a pineapple
+qhknaG9ifbs_122_127 0.4646 a young man is pushing a van down the street
+u9prcUCHlqM_73_80 0.4642 a man in a construction hat is dancing while two other seated men watch
+o4pL7FObqds_72_78 0.4574 a man lying prone in the street <UNK> a car to drive over his hands
+sb1dX5xAFvk_10_17 0.4574 a lion jumps and hangs off the top of a fence in an enclosed area
+kWLNZzuo3do_17_23 0.4573 a woman peels an apple
+sFExO_PW22s_10_18 0.4573 a baby monkey is eating
+tJHUH9tpqPg_113_118 0.4573 a man is taking toaster scrambles out of the package
+w28TljSqtW8_64_75 0.4573 a man preparing rice balls
+wgrrQwLdME8_66_74 0.4573 a toddler is <UNK> it s arms on a chair
+j2Dhf-xFUxU_20_29 0.4563 someone is pouring oil from a plastic bottle into a skillet
+sTMlQSbAGfE_0_12 0.4563 a man walks up to a dead deer he apparently shot
+wsj_dzz33Ko_31_41 0.4563 a woman is skinning a piece of fish with her fingers
+zuYZ5kPatJE_78_116 0.4563 a cat retrieves an object out of a dish of water
+kWLNZzuo3do_222_227 0.4551 a man is putting meat in a pan
+seTkGZlEU64_81_110 0.4509 a woman is rolling out dough on a floured surface with a large wooden rolling pin
+fEsrO_poIUg_161_168 0.4488 a man in a suit and sunglasses is sitting and smoking a thin cigar
+hJFBXHtxKIc_317_322 0.4483 a man is talking about a box of something he is holding up that he had pulled out of a larger corrugated cardboard box
+kWLNZzuo3do_206_213 0.4483 a woman is cutting a peeled potato into chunks with a knife
+uH8ObB_dyOk_159_166 0.4483 a <UNK> baby is standing holding onto a coffee table and dancing
+rwHT2SuNOi8_195_201 0.4464 a man is peeling an apple
+klFyrnrUSck_79_85 0.4445 someone cuts a piece out of cabbage leaves
+ok4cM6WTA5E_142_150 0.4445 someone is sprinkling cheese on a flour tortilla
+kquB3rIgfGk_537_544 0.4406 a man is talking and eating spaghetti off a plate with a fork
+onW5hJXnI5s_126_133 0.4406 a man riding up an escalator drops a black bag down the escalator
+o_mWZWcm2r4_47_54 0.4406 a man is pushing a van from behind while being filmed by <UNK>
+vz71JKcpeUU_0_10 0.4406 an airplane takes off and the wheels are drawn up inside the plane
+zYcY4mjLpxU_104_118 0.4406 a woman is applying <UNK> or powder to her face with a brush
+nTasT5h0LEg_40_43 0.4406 a baby is smiling
+gqSOvUH_njE_151_155 0.4376 a man jumps from a wooden structure to a wooden dock and slips
+nCtZFOYAlvQ_44_49 0.4376 a woman is sitting sideways in front of a man <UNK> a bicycle
+n_Z0-giaspE_270_278 0.4360 a man gets sprinkled with purple water
+kWLNZzuo3do_86_93 0.4360 a woman pours eggs from a glass bowl into a woklike skillet and she appears to be cooking an omelet
+s-QQWRdF-5Y_19_28 0.4331 a man is dancing on a sidewalk with his hands in his pants <UNK>
+fw8qvK67jYY_50_97 0.4331 a person slices a bread
+jv-eV6jR3Qw_7_12 0.4331 a man shooting a car
+pzq5fPfsPZg_51_57 0.4331 a little girl shown singing
+q-JHcsqJXWY_0_8 0.4331 a baby monkey is eating
+xCFCXzDUGjY_5_9 0.4331 a man enters a room
+jLgmCY1fEE8_16_26 0.4310 a man is <UNK> a tree
+kJY5BRCNAs4_3_6 0.4265 a man is slicing a loaf of bread with a knife
+iTA0rWPE4nY_17_23 0.4261 a man is riding a motorized bike
+j2Dhf-xFUxU_13_20 0.4261 someone is peeling an onion with their fingers
+kWLNZzuo3do_147_153 0.4261 someone is cutting a white vegetable into chunks
+o4OsYxsNGMI_77_82 0.4261 someone is turning over chicken wings with tongs
+t3VPeyYL-fI_35_39 0.4261 a man close up with crooked teeth speaks
+gbUhorqLCzU_10_23 0.4259 a young man is doing handstands
+gyOVZz7kXyM_1_10 0.4259 a woman is tapping her nails
+jTnrm338_KY_34_42 0.4259 a man is peeling an apple
+mtrCf667KDk_134_176 0.4259 a person is dicing an onion
+onxE6PpEXes_8_25 0.4259 a couple ride on a scooter
+q6vz80UkVtw_0_7 0.4259 a cat plays in a sink
+fVWUaH2mCt4_1_7 0.4222 someone lifts up the back of a blue car and then drops it
+fHfpMUDrQCs_17_31 0.4189 a woman is getting her hair <UNK>
+qvSxiVV7jhw_0_15 0.4189 a polar bear is walking on snow
+x68Djm_Q0GA_0_10 0.4189 a man is getting down a staircase
+xXlWsBhFvis_6_10 0.4189 a man is playing the key board
+q5ZRMvjzhXQ_15_29 0.4167 a baby <UNK> on a pacifier
+xtbsD3PUua4_84_94 0.4167 someone is removing the seeds from a green pepper
+s1ZABV7AQdA_38_48 0.4153 six young runners are lined up at the starting line of a racetrack waiting for a man to tell them to start
+xxHx6s_DbUo_158_161 0.4153 a man jumps from a wooden structure to a wooden dock and slips
+kZfBt5me3Pg_2_7 0.4133 a man with a wig jumps across a building
+nYwbAb0QvBE_195_210 0.4133 someone is pouring seasonings from a small glass bowl into a much larger glass bowl containing raw eggs
+nPj6EcVGoUY_7_15 0.4130 a lemur is sitting on the ground looking around
+qIk_Dz5XE5E_104_109 0.4122 a girl in the ocean on jet <UNK>
+hFERWnoc-nU_0_12 0.4099 a man slices a plastic <UNK> containing yellow liquid in half with a sword
+nq4hG6qgyPs_370_377 0.4076 someone is stirring a kettle of soup with metal tongs
+jCplbayVbtw_10_20 0.4056 a polar bear is climbing down a rock cliff
+jfrrO5K_vKM_55_65 0.4056 a man kneeling next to a woman lying on the floor keeps patting her back as they talk
+nhm_APPwhWk_6_12 0.4056 a bicyclist hits his face on a road sign
+xPR0xFgCAZY_17_27 0.4056 someone is pouring seasonings from a small glass bowl into a much larger glass bowl containing raw eggs
+z8dcUzdi2bw_3_16 0.4056 someone is scrubbing a zucchini with a brush under the running water from a faucet at a sink
+hJFBXHtxKIc_163_168 0.4046 someone is stirring a <UNK> white rice mixture in a kettle with a wooden spoon
+mHv4iJ9Yr1g_10_16 0.3993 a squirrel is eating a peanut in it s shell
+ymC2bNi6-Is_9_19 0.3993 a man is playing basketball with a large black dog
+lc9bA-hvqHU_1_6 0.3957 a man in a gorilla suit plays a bongo in a shopping center
+sJC7E06IBXI_49_59 0.3945 the man is pouring fuel on the flag
+hJFBXHtxKIc_286_291 0.3932 a man is slicing a loaf of bread with a knife
+v_tGw5gwlEw_136_152 0.3932 a young woman is curling her hair with a round hairbrush
+jD4o_Lmy6bU_117_137 0.3906 someone is scrubbing the bottom of their bare foot with a toothbrush
+s80J2dAUUyI_33_43 0.3897 a man kneeling next to a woman lying on the floor keeps patting her back as they talk
+xdhLQCYQ-nQ_50_63 0.3897 a man is cutting a cardboard plate with scissors
+nlU3crMsbWI_19_23 0.3872 a man puts a metal skillet filled with something into an oven
+zulPFoY64wE_26_33 0.3872 a man jumps up and goes over a wooden fence at night
+kEGmZDpZ_RE_295_330 0.3849 someone is stirring a kettle of soup with metal tongs
+rw9h_574HxE_127_133 0.3846 a man swings a weapon at a snake
+m1NR0uNNs5Y_57_64 0.3835 a woman is rolling out dough on a floured surface with a large wooden rolling pin
+qeKX-N1nKiM_0_5 0.3824 a woman is dicing celery
+pQYEZTwSVbQ_12_18 0.3814 a man lays his hand near his lip and appears to be thinking
+zH4v_DClIoc_3_28 0.3814 a woman and a man are seated at a small table eating sandwiches
+wpUT0DNB3qs_9_19 0.3788 a lemur is sitting on the ground looking around
+tBj4Ny19vfQ_54_59 0.3758 a dog is moving through very deep snow by leaping forward and sinking repeatedly
+gGDtPJzh_0s_30_45 0.3758 a man slices a pineapple
+fKqBnl8D1Qo_5_44 0.3750 a man is blowing bubbles
+qeKX-N1nKiM_123_130 0.3750 a woman breaks an egg
+qNjeEx92rTA_281_299 0.3750 a man slices an onion
+xxHx6s_DbUo_182_186 0.3750 a man who is crying goes up to another man who appears to <UNK>
+f9_bP219ehQ_63_70 0.3720 a man dangles a mouse for a snake to eat
+v-9Gx0gJmfo_91_99 0.3704 a man seated on a park bench is rocking a woman seated on his lap
+fjDvKHkmxs0_72_87 0.3704 a man is riding a horse
+i2sRHf9m5KM_28_42 0.3704 a toy train is going around
+nd0ToNwccl4_12_17 0.3704 a man feeding a baby kangaroo
+nZSFn51l3hc_480_485 0.3704 a chef seasons a game bird
+q3I3R_gqy8M_73_79 0.3704 a woman is playing the guitar
+qPXynwa_2iM_15_25 0.3704 a plane flying in the sky
+s0hwEUC5emA_127_132 0.3704 a man sings into a microphone
+xxHx6s_DbUo_57_61 0.3704 a woman makes a huge bubble
+lFdg5CWMTt0_24_28 0.3670 a woman is watching a man fill up the gas tank of a car
+mJ9eRvxjLc4_0_16 0.3651 a soccer player arguing with a referee
+hJFBXHtxKIc_310_315 0.3647 a man is talking about a box of something he is holding up that he had pulled out of a larger corrugated cardboard box
+t8Nf1MK7lts_0_10 0.3628 a man sings into a microphone
+u_6tre9_99Q_13_25 0.3606 the lion is playing with the man
+p7IAuvd87hQ_12_19 0.3599 a man driving a car runs into the side of a parked car in a parking lot
+uVPnDJKt1M0_0_6 0.3599 a woman tosses a cat in the air
+wX-Bl25Htag_104_115 0.3599 a man is talking on a cell phone
+k9Brw_0gncU_14_33 0.3549 a group of young people are rehearsing dance movements
+ulPvRmNfXK4_96_100 0.3549 a man kicks a soccer ball into the net
+rw9h_574HxE_59_66 0.3546 a man swings a weapon at a snake
+fX5G_JwPlLo_640_660 0.3538 someone is turning over chicken wings with tongs
+tPkZK-PzeQE_10_28 0.3507 someone is pouring seasonings from a small glass bowl into a much larger glass bowl containing raw eggs
+iyAoiWeD53k_120_127 0.3501 a lady is rolling dough into a flat round shape
+sBjr8UJOpsQ_149_169 0.3501 a man is throwing blades into a close target outside
+fr9H1WLcF1A_256_261 0.3472 a group of young people are rehearsing dance movements
+idRc_KkInds_0_6 0.3472 a baby otter moves about in his glass cage
+pfQPRXcihkI_127_138 0.3472 someone is cutting red bell peppers into thin slices
+yC4eEuURH8c_19_28 0.3472 a baby laying on it s back is crying
+gvVsgOK1iJw_32_38 0.3453 a woman is running in a field and flying a kite
+yg4aNiO1JnI_111_114 0.3409 a man is talking to his small dog
+rKF0ZW34FRk_41_54 0.3394 a man cuts the toe off a brown boot with a sword
+hPyU5KjpWVc_0_35 0.3333 a man chopping a tree with a big <UNK>
+lGk1MA6YP-M_36_48 0.3322 a girl moves a <UNK> table one way and a boy moves it back
+hbE29pZh76I_3_8 0.3321 six young runners are lined up at the starting line of a racetrack waiting for a man to tell them to start
+g2IYQq7IkXc_23_32 0.3308 a group of turtles crawls across the sand
+hW8TKz2Aea4_5_12 0.3276 a frog attacks someone s finger
+klFyrnrUSck_63_73 0.3276 a chef seasons a game bird
+lsanQj2yacs_80_85 0.3276 a young man is doing handstands
+pUPKsHTDZTo_70_85 0.3276 a man feeding a baby kangaroo
+hJFBXHtxKIc_118_123 0.3276 someone is stirring a <UNK> white rice mixture in a kettle with a wooden spoon
+u9E9HpuJQ7U_29_43 0.3254 a woman places <UNK> in a pot
+rNSAmHPYHjA_60_73 0.3235 a woman stirs beef in a bowl
+rOic25PnIx8_1_3 0.3226 a cat plays piano
+xSmfK498DjI_1_20 0.3178 a girl combs her hair
+onW5hJXnI5s_10_16 0.3175 a man with a wig jumps across a building
+y8SDRc4IOjs_94_99 0.3117 someone seasons rice in a skillet with a white substance
+idXJu0BQRvo_2_6 0.3074 ingredients are being mixed in a bowl
+yyxtyCaEVqk_321_328 0.3024 someone is shuffling a deck of playing cards
+xxHx6s_DbUo_32_36 0.3000 a man in the woods is dragging a deer behind him with a rope
+rwHT2SuNOi8_240_255 0.3000 a butcher cutting up meat
+g9aZcaEg7iY_0_9 0.2976 a young man drinks down a fish in a glass of water
+fcvW1vr8hAs_104_108 0.2972 a man <UNK> the weather
+jvxUeT1Nlb8_100_115 0.2950 a man is scooping the seeds out of what appears to be half of a peeled cucumber
+vloe_60s_dk_0_9 0.2941 a man seated on a park bench is rocking a woman seated on his lap
+pW9DFPqoIsI_26_50 0.2941 a woman is cooking pineapple slices in a pan on a grill using tongs
+qzQzooI4BqU_5_15 0.2941 a marching band plays in the woods
+z0Si1XxMibg_0_30 0.2937 a woman petting a wallaby outside
+n_Z0-giaspE_62_78 0.2904 a boy drinks from a water fountain
+s-XjRDsYuzU_0_12 0.2904 a woman places <UNK> in a pot
+yFPHhRat6bc_160_210 0.2899 a woman pours a sauce and some minced substance into a glass bowl containing meat
+gp8XjWSoP2k_0_10 0.2885 a polar bear is walking on snow
+pfQPRXcihkI_135_144 0.2857 a cook spreads butter on a cookie sheet
+rnawC5C8gSI_82_90 0.2840 a man kicks a soccer ball into the net
+tZmDWltBziM_70_80 0.2830 a boy is calling another to pass football
+sBjr8UJOpsQ_181_195 0.2817 a man is instructing a boy about batting
+kWLNZzuo3do_192_196 0.2808 a woman pours a liquid and seasonings in a small glass bowl and whips them with a wire whisk
+ul9Xvjt83eI_111_120 0.2778 a man kneeling next to a woman lying on the floor keeps patting her back as they talk
+nwk4m329bLw_2_10 0.2778 a tiger runs and sits on a prone man
+sZf3VDsdDPM_107_114 0.2757 a woman sings on stage
+io2dbV-Qbus_215_247 0.2740 a cat is going to the bathroom in a <UNK>
+nMBSDpB3WB8_5_14 0.2740 a boy is dribbling a soccer ball at a show
+sMscRb9TcQE_146_161 0.2740 a man dangles a mouse for a snake to eat
+n_Z0-giaspE_379_387 0.2703 a man karate chops multiple boards while another man watches
+kKGehSw5ht8_39_45 0.2662 a ballerina dances on a stage
+tcxhOGyrCtI_15_21 0.2662 a puppy plays with a ball
+f9Won2JpOEU_60_80 0.2632 a cat retrieves an object out of a dish of water
+omIPdpxg--4_39_46 0.2587 a girl moves a <UNK> table one way and a boy moves it back
+o_mWZWcm2r4_10_15 0.2581 a man is cutting a cardboard plate with scissors
+mCrRHP4LFmo_24_40 0.2564 a goose runs after a man and bites him on his behind
+ybVb3t560oY_0_9 0.2525 a man driving a car runs into the side of a parked car in a parking lot
+gCra4qOrjFw_1_17 0.2500 a boy playing baseball
+hJuqBDw_TT4_14_25 0.2500 a man is kicking
+jsEUFYhiqxU_121_128 0.2500 a man is shooting a gun
+k8l4ETsylVY_9_18 0.2500 a squirrel is moving in circles
+kWLNZzuo3do_217_222 0.2500 a woman pours oil from a small glass bowl into a woklike skillet
+lb8J2zCQTlo_3_8 0.2500 a woman is cooking a egg mixture in a deep skillet using chopsticks
+o2X6UCaNqKA_27_36 0.2500 a boy is kicking a ball
+toE0QYZzJKE_1_8 0.2500 a man is singing and playing the guitar
+zxB4dFJhHR8_1_9 0.2500 a boy is playing a cello
+sWqi41wyXcQ_68_79 0.2481 a woman is applying <UNK> or powder to her face with a brush
+t4aPGtx7e6k_0_10 0.2459 a girl is riding a horse bareback
+u9prcUCHlqM_503_511 0.2459 a boy is playing with a telephone
+uJPupV4oLZ0_4_12 0.2459 a person cutting a up a onion
+xlPyHMkpaQY_1_7 0.2459 a woman is shooting a hand gun
+z1PEyzk4ADU_8_18 0.2459 a boy is singing into a mic
+mF6ijhSrbBQ_32_40 0.2439 a baby snow leopard sitting in front of an adult snow leopard runs off
+fqly5kyO2MI_10_20 0.2439 a cheetah is chasing prey
+hReROJQpSow_24_30 0.2439 a crying baby falls down
+mOZkcBcWR8o_6_12 0.2439 a man is being interviewed
+t4vP-cXXWkY_14_20 0.2439 a frog is being stroked
+xBW_uR3kGr4_42_55 0.2439 a toddler is <UNK> it s arms on a chair
+nLz0QuerH1c_8_15 0.2434 a white cat licking his tongue
+fMFvOgb4k6E_35_43 0.2419 a man is walking down a stone path
+ngHDYzhDBk4_24_29 0.2419 a baby boy is playing with a cat
+r2oI9Y-3wAo_21_28 0.2419 a <UNK> of zebras are grazing on grassland
+i2GgBwlwV0c_24_31 0.2391 a man puts flour and water into a small bowl and stirs with a spoon
+fMXfphSi6Yw_7_12 0.2381 a man is polishing a floor
+krAk8WPZRL4_207_212 0.2381 a boy is kicking a ball
+pRpeEdMmmQ0_65_70 0.2381 a boy is playing a flute
+r4qv_BNlQNk_93_98 0.2381 a woman is doing weight exercises
+tIMDKdMnNYM_266_273 0.2381 a man is loading his gun
+tZmDWltBziM_42_47 0.2381 a boy is riding a horse
+htry5uxX0-Y_45_52 0.2344 a man is telling a story to people with masks
+l5JJ2n2ggiQ_319_327 0.2344 a lady is rolling dough into a flat round shape
+nULE40HEWpA_5_11 0.2344 a red panda is grooming itself with it s tongue
+o4pL7FObqds_243_263 0.2344 a bird is eating from a dish in a tree
+q3I3R_gqy8M_34_37 0.2344 a man in a suit snaps a stick in half
+uO7Eysrs8_k_80_90 0.2344 a boy is dribbling a soccer ball at a show
+xTd_IdIcB4s_2_10 0.2344 a man dangles a mouse for a snake to eat
+jcIrD7rNvTM_10_21 0.2326 a stunt car is being driven uphill
+m1NR0uNNs5Y_160_166 0.2326 a man slicing butter into a bowl
+yAD_TS5L2d4_4_11 0.2326 a polar bear is walking on snow
+pqTWUzehCUM_42_47 0.2315 a woman is standing talking on a cell phone
+rQuNYxNmA6M_0_4 0.2273 a man is getting down a staircase
+f_CvW22Eauc_16_23 0.2273 a cat is playing with a toy mouse
+h0JvF9vpqx8_213_223 0.2273 a cat is eating corn on the cob
+hEOGZoYSvT4_82_86 0.2273 a man is instructing a boy about batting
+iCiGjZEV7VI_65_75 0.2273 a man applying shaving cream to his face
+lmCrIZeob4w_23_26 0.2273 a man is taking pictures with a camera of a woman <UNK>
+mFCf8lLXrUc_25_35 0.2273 someone cuts mushrooms into pieces with a knife
+oFUsn1owAbs_158_168 0.2273 two women are sitting on a couch knitting
+qRoxNXm7INc_58_66 0.2273 a bald man is bleeding as his scalp is <UNK> in a checked pattern while pins are driven into it and all over his face
+s_ldnx8_etY_32_54 0.2273 a man is adding water to a pan
+zhLcONtNkew_16_21 0.2273 a person is peeling the skin off a potato using a knife
+nBFhvrAOFqY_23_29 0.2239 a man is pushing a van from behind while being filmed by <UNK>
+r4qv_BNlQNk_119_124 0.2239 a woman is carrying a huge plastic bag of cans over her back
+ljGcQocjSs4_38_60 0.2222 a baby rhino is walking behind an adult rhino
+zfQOH4UGU_I_1_10 0.2222 a polar bear is climbing down a rock cliff
+zpgW7m7_LZw_2_15 0.2222 a man is doing stunts while riding a motorcycle
+ficwZQYmRLE_5_20 0.2206 a small animal on a towel turns around and heads toward someone s hand
+iarsmqA3dck_19_25 0.2206 a baby snow leopard sitting in front of an adult snow leopard runs off
+u4T76jsPin0_0_11 0.2206 a baby snow leopard sitting in front of an adult snow leopard runs off
+p6cg2jWI34M_34_42 0.2174 a red panda is grooming itself with it s tongue
+zYcY4mjLpxU_45_55 0.2174 a lady is peeling the skin of a boiled potato
+ge7OOILJA6U_20_25 0.2174 a <UNK> of penguins are walking
+ggWzbEFC-RE_1_11 0.2174 a young man is doing handstands
+wzfkC2TjdeQ_0_31 0.2174 a man is driving a car
+nTUONeDqhdk_10_15 0.2128 a man plays a violin on the roof of a house
+rl1rVk_xIOs_1_16 0.2128 a monkey is brushing the hair of a large white dog
+lsanQj2yacs_102_108 0.2113 a woman is washing off the lid of a covered bowl at the faucet of a sink
+p9g06ktIkJg_4_11 0.2113 a <UNK> of zebras are grazing on grassland
+i3cHNObcEh8_0_10 0.2083 a kitten sniffs flowers on a red checked cloth on a table
+k4hhWYtaQ14_0_10 0.2083 a panda is patting his side
+nrZyPuRd5pU_85_92 0.2083 a big group of people are watching a plane in the sky
+gHyXstpe_N8_116_125 0.2061 a chef mixing flour in a bowl
+xxHx6s_DbUo_121_128 0.2055 a man dangles a mouse for a snake to eat
+gqxpGOHUH9k_113_119 0.2041 a woman and a man are holding hands and running towards the ocean
+uZEGu-TA2cU_42_58 0.2041 the couple is kissing
+xxHx6s_DbUo_162_165 0.2041 a man using a pole <UNK> a cat off a tall <UNK> pole
+lB1UPJ4leqs_1_6 0.2027 a woman is running in a field and flying a kite
+pDvzOLRLjPc_0_8 0.2027 a cat is watching something on a television or computer screen
+f-24IxG9ijw_25_40 0.2000 a cheetah is chasing prey
+gXVaC3gBWbc_22_30 0.2000 a man is kneading dough
+j1Z890_Q3so_131_138 0.2000 a man is chopping onions
+kSzS_lFtJDk_55_70 0.2000 a plane is taking off
+m1NR0uNNs5Y_123_129 0.2000 a woman picking a tomatoes
+ngHDYzhDBk4_5_14 0.2000 a man is performing yoga
+psXeA8sSYdI_25_30 0.2000 a cheetah is chasing prey
+tqxRDVKtkSY_30_45 0.2000 a little girl shown singing
+xgIIcPSh4EU_0_6 0.2000 a baby snow leopard sitting in front of an adult snow leopard runs off
+ywHBKayhyvQ_19_28 0.1974 someone lifts up the back of a blue car and then drops it
+oG6LLGi_n48_51_55 0.1974 six young runners are lined up at the starting line of a racetrack waiting for a man to tell them to start
+f_GnkweYzzI_35_41 0.1961 a boy is kicking a ball
+gtIz1u8g1F0_3_13 0.1961 a man is driving a car
+iEW-EkPQywU_61_83 0.1961 a man is peeling an apple
+kuNQpRTc-hA_126_135 0.1961 a man puts together a gun
+sXyjCgR0rAc_0_11 0.1961 a man is shooting a gun
+zTn-nNj5Bng_61_77 0.1961 a group is playing musical instruments
+rw9h_574HxE_229_236 0.1923 a cop car is driving down a road
+yvfhk1kwKls_103_113 0.1923 someone cuts mushrooms into pieces with a knife
+gbW9f8xydks_0_10 0.1923 a large dog is driving a car
+inzk2fTUe1w_1_15 0.1923 a chef mixing flour in a bowl
+klteYv1Uv9A_27_33 0.1923 a marching band plays in the woods
+l57mQZvDaL4_10_30 0.1923 a boy drinks from a water fountain
+xb-Nacm-pKc_78_82 0.1923 a woman picks up a watering can
+zSPBC8EO6dY_64_73 0.1923 a boy goes down a water slide
+fF89MasBFLw_321_326 0.1887 a man is talking on a cell phone
+kWLNZzuo3do_145_151 0.1887 someone is cutting a white vegetable into chunks
+nc8hwLaOyZU_1_19 0.1887 a cat <UNK> a boxing match on television
+qqYysi3qotc_148_195 0.1887 a cartoon of a woman flipping a pancake
+s8utHZYTNTs_35_42 0.1887 a cook spreads butter on a cookie sheet
+uO7Eysrs8_k_106_114 0.1887 a circus performer walks across a tight rope
+p6T3XrnYtFk_4_13 0.1887 a man driving a car runs into the side of a parked car in a parking lot
+pGsU4FekJQM_10_18 0.1887 a panda climbs up a threetiered cake and another panda is sitting and looking at the cake
+zSPBC8EO6dY_122_126 0.1866 a man driving a car runs into the side of a parked car in a parking lot
+nLvX-erABqY_67_72 0.1852 a baby rhino is walking behind an adult rhino
+qypmR4O1Gwk_0_10 0.1852 a woman is riding her horse on the beach
+xxHx6s_DbUo_202_207 0.1852 two men are pushing loaded carts through the woods
+gWRRHV7DLV0_21_31 0.1818 a woman is cutting rice paper into strips and triangles
+hW8TKz2Aea4_40_50 0.1818 a woman add some egg <UNK> to some stir fry
+yU5sxW9bErQ_0_17 0.1818 a young woman is roller skating around small orange cones
+z0zb--BOhDY_16_22 0.1818 two cars racing on a track slide around the <UNK>
+nHZsE7T7hwI_13_23 0.1802 a woman places a piece of raw fish on a small grill
+pmEKZ6yVewc_0_10 0.1786 a basket ball player does a hook shot on his opponent
+hJFBXHtxKIc_298_303 0.1786 someone is stirring a brown and yellow mixture in a small bowl
+uAaWVeaYLdQ_1_12 0.1786 an adult giraffe leans over a fence and nuzzles a baby giraffe
+veE0E79dEEc_18_45 0.1786 a woman pours oil from a small glass bowl into a woklike skillet
+zHy7pM0U49w_110_116 0.1786 someone pours water from a glass jar into a rectangular plastic container
+i3fd4nE8OCI_174_181 0.1786 a man
+wn9rDTZj-m4_8_18 0.1765 a man riding up an escalator drops a black bag down the escalator
+iUYWdCxvJCI_2_14 0.1744 a woman taking a bath
+oSnYUfCGiCA_7_17 0.1724 a man lays his hand near his lip and appears to be thinking
+u4kMN1jamdM_10_20 0.1724 a boy picks up a large log with hand holds cut into it
+yId1rg5-ac0_40_50 0.1724 a dog is running and barking at his image in a <UNK> mirror
+ruNrdmjcNTc_0_5 0.1724 a woman is lying on top of a man at the bow of a canoe while two other people are paddling with their hands
+xGdoi3W3Z4o_2_40 0.1724 a man
+lB1UPJ4leqs_0_6 0.1695 a woman appears to be hit by lightening and is bleeding at the mouth
+m1c04pCYGxA_57_64 0.1695 a man slices a plastic <UNK> containing yellow liquid in half with a sword
+iuqVpMdb1NM_35_43 0.1695 a cook seasons some dough
+pptYu3YQnxY_160_170 0.1695 a chef cutting a carrot
+uqVCk2oDpSE_194_200 0.1695 a woman taking a bath
+yYA7YXIKbg4_9_14 0.1695 a person cooks chopped onions
+zSPBC8EO6dY_132_140 0.1695 a girl is skipping rope
+rw9h_574HxE_251_254 0.1667 an episode of i love lucy where desi lights lucy a cigarette
+iwpnUHFhjWc_84_94 0.1667 a dog fishing in the lake
+j4dMnAPZu70_12_17 0.1667 a hedgehog goes into its house
+lexLAjh8fPA_27_31 0.1667 a woman demonstrating a walking exercise
+pGCRurvXQGM_45_56 0.1667 a snake is crawling through leaves
+qDjtN7xxNr4_44_51 0.1667 horses are racing
+qIXs7fUoLIg_1_11 0.1667 a woman demonstrating a walking exercise
+s7znbqra118_91_97 0.1667 horses are racing
+s9TklvyLFyI_177_191 0.1667 a person typing on his or her lap top
+v7NpKUVqjpI_23_40 0.1667 a woman petting a wallaby outside
+xfRIRSWy0y0_10_20 0.1667 a train slows down and stops
+yNy9jTeolUk_8_12 0.1648 a teenage boy riding a dirt bike over a car
+hNECyt6Bo0A_5_10 0.1639 a boy is playing with a telephone
+jdAbpLooDgM_10_15 0.1639 a woman drinking alcohol from a bottle
+kBMsuhDvg88_45_64 0.1639 an okapi is grazing off a tree
+oeaVXK2GAyc_4_21 0.1639 a man eats a piece of bread
+pFSoWsocv0g_8_17 0.1639 a bunch of raccoons are eating peanuts
+sJSmRik2c-c_1_7 0.1639 a kangaroo nibbles on it s food
+uB9zRlV47qA_17_23 0.1639 the lion is playing with the man
+xkNDE1JL6Z8_50_59 0.1639 a woman picks up a watering can
+gjVBEJGHrXk_26_38 0.1613 a motorcyclist is doing donuts with his motorcycle
+glii-kazad8_21_29 0.1613 a <UNK> of zebras are grazing on grassland
+gnEE6oWoz7U_124_132 0.1613 a woman does her <UNK> on the lake
+j4dMnAPZu70_11_18 0.1613 a hedgehog is sniffing
+vRC9sBNt9vs_10_16 0.1613 a monkey is swinging from limb to limb
+zzit5b_-ukg_5_20 0.1613 a male and a female robot are kissing
+k06Ge9ANKM8_5_16 0.1600 a <UNK> of zebras are grazing on grassland
+zr9OeyfLPPY_4_9 0.1596 a man puts a pizza into an industrial oven with a large paddle
+hSgGBHbJrmE_0_17 0.1587 a baby rhino is walking behind an adult rhino
+puineN1UMto_25_29 0.1563 a baby snow leopard sitting in front of an adult snow leopard runs off
+fnpp8v9NbmY_181_188 0.1562 a chef cutting a carrot
+g1Gldu1KS44_8_14 0.1562 a batman robin movie clip of them in a helicopter
+hNOzHvsEmg4_31_36 0.1562 a brown cow is eating grass in an open field
+jCplbayVbtw_28_38 0.1562 a woman taking a bath
+pzq5fPfsPZg_145_160 0.1562 a man in a suit snaps a stick in half
+xOQn1z_oWDY_30_39 0.1562 a chef cutting banana bread
+fGc6_D0JEIQ_31_46 0.1515 a man is <UNK> a tree
+h0JvF9vpqx8_36_42 0.1515 a man cuts throw a rope
+lfGlDg47How_361_367 0.1515 someone pours water from a glass jar into a rectangular plastic container
+lo4KcsBN--A_0_10 0.1515 a girl dives into a lake
+pdrBPJYfTC8_33_39 0.1500 someone is turning over chicken wings with tongs
+yd8jh9QYfEs_4_10 0.1493 a boy is playing
+ibSwITK4jjQ_14_24 0.1471 a kangaroo nibbles on it s food
+q7pOFn8s4zc_263_273 0.1471 business people checking into a hotel room
+mmSQTI6gMNQ_120_128 0.1471 a group of people dancing
+n016q1w8Q30_2_11 0.1471 a cook seasons some dough
+nohvigNMsbo_199_207 0.1471 a man opens a can
+o4pL7FObqds_137_147 0.1471 models dancing in living room
+mZVPkPqwzR4_38_45 0.1449 a dog swims with a shark
+fkONJEgTNJY_25_35 0.1429 a <UNK> of zebras are grazing on grassland
+mbesJaS6vwg_187_195 0.1429 someone is turning over chicken wings with tongs
+n_Z0-giaspE_168_193 0.1429 a boy is calling another to pass football
+wFX6bXLbHW4_83_90 0.1429 bruce lee kicking several students in a fight
+fY0lZTWlBAg_470_485 0.1429 business people checking into a hotel room
+lKpGc3SCSVw_12_20 0.1429 a man arranges books on a shelf
+z9qbQX4J_2g_0_14 0.1429 a man is pouring antifreeze from a large jug into a funnel into his car
+v-9Gx0gJmfo_26_32 0.1389 a bicyclist hits his face on a road sign
+xxHx6s_DbUo_82_86 0.1389 a group of young people are rehearsing dance movements
+sv5YlZspb30_10_20 0.1389 a man takes a shot at a target outside
+za-9mBZyNfQ_330_336 0.1333 a man jumps up and goes over a wooden fence at night
+msCidKHOh74_410_418 0.1316 a woman
+nZSFn51l3hc_318_326 0.1299 a chef butters some bread
+ywMLb2VfHbI_13_20 0.1299 someone adds a few drops of clear liquid to a kettle with an eyedropper
+zCf8NWJ8kzA_47_52 0.1299 a cook seasons some dough
+uppFvcVwqqY_5_15 0.1282 a plane flying in the sky
+zTn-nNj5Bng_8_19 0.1282 a train slows down and stops
+swJ0zhVJ8DU_15_21 0.1266 a man is riding a motorized bike
+gMqKUPeTAkg_17_30 0.1250 two women are reclining on a couch talking
+pcjuCotJYj8_50_62 0.1250 a puppy kicks dirt on it s mother
+ggic669elLM_200_215 0.1220 a girl combs her hair
+otLEUwHao_E_140_151 0.1220 the ladies danced in costume
+r0E-0ntoNWo_20_30 0.1220 a kitten plays with string
+ub-aYLzCF_Q_1_10 0.1220 a badger digs a hole
+wFPmKChNrhU_3_11 0.1220 a group of people dancing
+wNv74rvkAw8_30_40 0.1220 a wombat is walking about
+zv2RIbUsnSw_159_162 0.1220 the ladies danced in costume
+v5CeGLEnVFE_0_8 0.1205 a cat is watching something on a television or computer screen
+vuvpbeQak9Q_23_29 0.1190 a man held a baby monkey in his hand
+jjl2ZMdFCsw_17_35 0.1190 a boy is kicking a ball
+p69d3UBdpR8_98_109 0.1190 a teacher explaining a math problem
+vMoOpQQy6sI_22_55 0.1190 a <UNK> speaker does a speech
+zkTn5Ef1Oig_70_75 0.1190 a young man is doing handstands
+kNHivduxQWg_0_14 0.1163 a baby is drinking at the table
+lvFYUmDSOvU_34_38 0.1163 clouds are quickly floating past a building
+nBFhvrAOFqY_89_103 0.1163 a woman picks up a watering can
+xEDCfcMZlZY_91_100 0.1163 a cop car rams into motorcycle rider
+lKADopH3qFY_0_10 0.1136 a polar bear pup looks into the mirror
+nb12bAaKzvA_0_10 0.1136 a polar bear pup looks into the mirror
+izU1dDwnuMY_80_92 0.1111 and is fired into an open area at night
+zkTn5Ef1Oig_71_75 0.1111 a large group of people are outdoors line dancing
+fr9H1WLcF1A_326_336 0.1111 a man is doing stunts while riding a motorcycle
+lrZxpneS6Gk_0_12 0.1111 three men run into and play in the ocean
+g8LUhxR-6Wg_0_8 0.1099 a man is tying his tennis shoe in a bow
+r2PM0om2El8_18_25 0.1079 a woman is carrying a huge plastic bag of cans over her back
+wLUH7qA_6sA_90_115 0.1064 an animal
+rq2p5ML8-WI_63_69 0.1042 three women in harem costumes are dancing in front of an audience
+lm0z7eLsbbw_9_23 0.1020 an airplane takes off and the wheels are drawn up inside the plane
+x1i0UOssll8_141_151 0.1020 a bird plays dead
+jZ8X8e7eRVk_24_27 0.1000 a cat watches dominoes fall
+oBt257I-pL0_0_10 0.1000 a man shooting a gun
+mmSQTI6gMNQ_15_21 0.0980 a boy is kicking a ball
+hJuqBDw_TT4_105_112 0.0962 a soccer player arguing with a referee
+hNPZmTlY_3Q_0_8 0.0962 business people checking into a hotel room
+zS50h-a8RTg_3_9 0.0820 a kangaroo nibbles on it s food
+s-dSFyz_5Ww_13_23 0.0781 a toddler is <UNK> it s arms on a chair
+g2IYQq7IkXc_124_132 0.0735 a baby monkey is eating
+n_Z0-giaspE_437_447 0.0714 <UNK> <UNK> serving food at an event
+ysTmUTQ5wZE_17_45 0.0505 two puppies are wrestling and nipping at each other
+hcCLIzzB1jQ_1_7 0.0403 <UNK> <UNK> serving food at an event
+yfMTsYcLt10_0_7 0.0352 <UNK> <UNK> serving food at an event
+s-dSFyz_5Ww_31_41 0.0000 a black colored pet dog is biting a stuffed toy fish
