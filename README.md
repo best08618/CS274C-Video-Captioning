@@ -3,7 +3,14 @@
 We implement Baseline model and attention model with Keras. 
 Below is the steps for preprocessing data and training/ testing.
 
-Data should be right directory (under training_data)
+All the video files should be in a right directory (training_data/video/)
+
+```
+You can use the trained-models for experiments.
+model_final2022-06-02.tar.gz # baseline model
+model_att_general_2022-06-02.tar.gz #attention model 
+```
+
 
 ## 01. Feature Extractor
 We need to preprocess each video and extract features from the video using pre-trained model.
